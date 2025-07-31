@@ -15,3 +15,4 @@ DESCRIPTION:  This project is a simple Python-based tool to detect file modifica
               The final code was exported and uploaded to GitHub as part of internship submission.
               GitHub was used to store the .py file and documentation (README.md).
               This project demonstrates basic file integrity concepts used in cybersecurity.
+OUTPUT:<img width="786" height="108" alt="Image" src="https://github.com/user-attachments/assets/e030f35a-0116-4b49-b03b-f6696d6d6083" />              
